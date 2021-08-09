@@ -1,0 +1,16 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.box{
+
+    border-radius: 20px;
+    margin-left: 85vh;
+    margin-top: 35vh;
+    padding: 20px;
+    display: inline-block;
+    border: 1px solid black;
+
+}
