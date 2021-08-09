@@ -7,10 +7,40 @@
 .box{
 
     border-radius: 20px;
-    margin-left: 85vh;
+    margin-left: 75vh;
     margin-top: 35vh;
     padding: 20px;
     display: inline-block;
     border: 1px solid black;
 
+}
+
+#title{
+
+    display: block;
+    padding: 5px;
+    margin: 5px;
+    font-family: monospace;
+    font-size:45px;
+}
+
+#btn{
+
+    background-color: #4CAF50; 
+    border: 1px solid black;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;   
+    margin-left: 16vh;
+    margin-top: 2.5vh;
+    
+}
+
+#btn:hover{
+    background-color: cornflowerblue;
+    color: black;
 }
