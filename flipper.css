@@ -7,12 +7,13 @@
 .box{
 
     border-radius: 20px;
-    margin-left: 75vh;
-    margin-top: 35vh;
+    margin-left: 65vh;
+    margin-top: 25vh;
     padding: 20px;
     display: inline-block;
-    border: 1px solid black;
-
+    border: 1px solid white;
+    background-color: black;
+    color: whitesmoke;
 }
 
 #title{
@@ -27,20 +28,20 @@
 #btn{
 
     background-color: #4CAF50; 
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 5px;
     color: white;
     padding: 15px 32px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
-    font-size: 16px;   
-    margin-left: 16vh;
+    font-size: 18px;   
+    margin-left: 26vh;
     margin-top: 2.5vh;
     
 }
 
 #btn:hover{
-    background-color: cornflowerblue;
+    background-color: white;
     color: black;
+    
 }
